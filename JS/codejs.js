@@ -1,4 +1,3 @@
-funtion saludo(){
-
-    alert "Hola alumnos";
+function saludo() {
+    return 'saludo';
 }
